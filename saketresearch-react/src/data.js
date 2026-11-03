@@ -34,7 +34,7 @@ const PROJECTS = [ // github: "" hides the GitHub button. metrics/points show in
  {title:"Self-Supervised Speech Intelligibility Prediction",cat:"Speech",tags:["Speech AI","Whisper","BiLSTM","Self-Supervised"],tech:["Whisper encoder","BiLSTM"],github:"",img:"",
   where:"IIT Jammu",
   desc:"A speech intelligibility prediction system built on Whisper encoder embeddings and a BiLSTM, trained on a large-scale FLAC dataset without manual annotations.",
-  metrics:[["0.052","RMSE"],["0.89","Pearson correlation"]],
+  metrics:[["21.01","RMSE"],["0.89","Pearson correlation"]],
   points:["Whisper encoder embeddings as input representation","BiLSTM for temporal modelling","No manual annotations needed"]},
  {title:"EEG Preprocessing Pipelines",cat:"EEG",tags:["EEG","Wavelets","Spectral Filtering","Biomedical Signals"],tech:["MNE-Python","PyWavelets"],github:"",img:"",
   where:"IIT Jammu",
