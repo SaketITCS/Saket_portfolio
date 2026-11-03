@@ -244,7 +244,7 @@ const BLOG = [
    Photos: drop a file at public/assets/images/mentors/<slug>.jpg (initials show until then). ---------- */
 const MENTORS = [
  {slug:"sayantan-sinha",name:"Dr. Sayantan Sinha",initials:"SS",role:"Mentor & Co-Author",affil:"Technical Trainer, Dept. of CEA, GLA University Mathura",match:"S. Sinha"},
- {slug:"rick-chatterjee",name:"Mr. Rick Chatterjee",initials:"RC",role:"Mentor & Co-Author",affil:"",match:"R. Chatterjee"}
+ {slug:"rick-chatterjee",name:"Mr. Rick Chatterjee",initials:"RC",role:"Mentor & Co-Author",affil:"Assistant Professor, Dept. of CEA, GLA University Mathura",match:"R. Chatterjee"}
 ];
 
 /* Everyone who appears as a co-author on a publication above.
