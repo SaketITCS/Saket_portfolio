@@ -253,9 +253,9 @@ const MENTORS = [
    Full names are only filled in where known; replace the initials-style names with full names when you like. */
 const COAUTHORS = [
  {slug:"sayantan-sinha",name:"Dr. Sayantan Sinha",initials:"SS",role:"Mentor & Co-Author",affil:"Technical Trainer, Dept. of CEA, GLA University Mathura",match:"S. Sinha"},
- {slug:"rick-chatterjee",name:"Mr. Rick Chatterjee",initials:"RC",role:"Mentor & Co-Author",affil:"Assistnt Professor, Dept. of CEA, GLA University Mathura",match:"R. Chatterjee"},
+ {slug:"rick-chatterjee",name:"Mr. Rick Chatterjee",initials:"RC",role:"Mentor & Co-Author",affil:"Assistant Professor, Dept. of CEA, GLA University Mathura",match:"R. Chatterjee"},
  {slug:"punnet-sharma",name:"Punnet Sharma",initials:"PS",role:"Co-Author",affil:"",match:"P. Sharma"},
- {slug:"saksham-sharma",name:"Saksham Sharma",initials:"SS",role:"Co-Author",affil:"",match:"S. Sharma"},
+ {slug:"saksham-sharma",name:"Saksham Sharma",initials:"SS",role:"Co-Author",affil:"AI Engineer, Invariz Faridabad",match:"S. Sharma"},
  {slug:"h-rajoria",name:"Harsh  Rajoria",initials:"HR",role:"Co-Author",affil:"",match:"H. Rajoria"},
  {slug:"s-upadhyay",name:"Sachin Upadhyay",initials:"SU",role:"Co-Author",affil:"",match:"S. Upadhyay"},
  {slug:"pk-jha",name:"Prakash Kumar Jha",initials:"PJ",role:"Co-Author",affil:"",match:"P. K. Jha"},
