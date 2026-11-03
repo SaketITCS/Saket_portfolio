@@ -3,7 +3,7 @@
    Items marked [kept] were already on the earlier version of the site and are not in the resume. */
 const SITE = { email: "saketmaheshwariml@gmail.com", location: "Kasganj, Uttar Pradesh, India" };
 const SOCIALS = [
-  {name:"LinkedIn",icon:"bi-linkedin",url:"https://www.linkedin.com/in/saketmaheshwarii"},
+  {name:"LinkedIn",icon:"bi-linkedin",url:"https://www.linkedin.com/in/saket-maheshwarii/"},
   {name:"Email",icon:"bi-envelope",url:"mailto:"+SITE.email}
   // Add GitHub / Google Scholar / ORCID here once you have the real URLs:
   // {name:"GitHub",icon:"bi-github",url:"https://github.com/<you>"},
