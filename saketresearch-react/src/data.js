@@ -258,7 +258,7 @@ const COAUTHORS = [
  {slug:"saksham-sharma",name:"Saksham Sharma",initials:"SS",role:"Co-Author",affil:"",match:"S. Sharma"},
  {slug:"h-rajoria",name:"Harsh  Rajoria",initials:"HR",role:"Co-Author",affil:"",match:"H. Rajoria"},
  {slug:"s-upadhyay",name:"Sachin Upadhyay",initials:"SU",role:"Co-Author",affil:"",match:"S. Upadhyay"},
- {slug:"pk-jha",name:"P. K. Jha",initials:"PJ",role:"Co-Author",affil:"",match:"P. K. Jha"},
+ {slug:"pk-jha",name:"Prakash Kumar Jha",initials:"PJ",role:"Co-Author",affil:"",match:"P. K. Jha"},
  {slug:"r-kumar",name:"Rahul Kumar",initials:"RK",role:"Co-Author",affil:"",match:"R. Kumar"},
  {slug:"b-kumar",name:"B. Kumar",initials:"BK",role:"Co-Author",affil:"",match:"B. Kumar"}
 ];
